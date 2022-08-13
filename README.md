@@ -1,22 +1,24 @@
-# Lambda Plugin Example
+# Lambda Plugin - FlufferyUtils
+### Most of these are not mine! this is so I can commit my own changes to their oringinal code
+#### HighwayTools needed!
 
-This project in an example to show how a proper plugin for [Lambda Client](https://github.com/lambda-client/lambda) is set up.
-The advantage of plugins for a utility mod is that they allow the user to decide what features their personalized client will have. Plugins work in plug and play manner, and can be downloaded and activated inside the ingame menu without reloading the client as long as no mixins are used for the plugin.
-If you are scared about the Kotlin in this project be aware that Kotlin is a wrapper language for Java. That means that plugins can also be natively written in Java.
-
-## Setup
-
-To achieve coding building and publishing your own plugin most of the following steps are required.
-
-### Fork
-This is a template repository and can be used as a base to create a custom plugin. Press the `Use as template` button on GitHub to automatically create a linked fork to this repository.
-
-### Clone Repository
-
-Clone the repository to your local machine. Use the link of either your fork or the main repository.
-```
-git clone https://github.com/lambda-client/ExamplePlugin
-```
+PacketFly2
+NetherEject
+HighwayAutoDisconnect
+EmptyShulkerEjecter
+PopCat (HUD)
+LongJump2
+NoteBlockESP
+AntiSoundBug
+AntiToast
+EnderChestBackpack
+ClientSideTime
+F3 Spoof
+SuperSecretShaders
+ElytraBot
+AutoReply
+DiscordNotifs
+SpecialChat
 
 ### Setup IDE
 
